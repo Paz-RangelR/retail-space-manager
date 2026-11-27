@@ -15,7 +15,7 @@
 > was anonymized to produce them. Every figure below describes this synthetic
 > dataset and nothing else.
 
-**▶ Live demo: <https://retail-space-manager.streamlit.app>** — *first load may take ~40s while the free instance wakes up.*
+**▶ Live demo: <https://retail-space-manager-j3ik77vnuxaceu3yrjzeb4.streamlit.app>** — *first load may take ~40s while the free instance wakes up.*
 
 ![Floor plan](docs/plano_ocupacion.png)
 
