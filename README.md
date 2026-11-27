@@ -274,7 +274,7 @@ when it was posted — which is what a production version should carry.
 CAD. Rectangles are enough to show occupancy and keep the plan honest (the
 rectangle's area *is* the leasable area), but a real deployment would read the
 actual polygons — which is what
-[`property-portfolio-geo`](https://github.com/chino-bot1701/property-portfolio-geo)
+[`property-portfolio-geo`](https://github.com/Paz-RangelR/property-portfolio-geo)
 does with WKT and geodesic areas.
 
 **No money.** Rents, escalations and recoveries are the obvious next layer, and
